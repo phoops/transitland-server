@@ -22,3 +22,5 @@ require (
 )
 
 // replace github.com/interline-io/transitland-lib => /Users/irees/src/interline-io/transitland-lib
+
+replace github.com/interline-io/transitland-lib => github.com/phoops/transitland-lib v0.8.7-pgfix.1
