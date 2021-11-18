@@ -134,8 +134,8 @@ github.com/opencontainers/runc v1.0.0-rc9/go.mod h1:qT5XzbpPznkRYVz/mWwUaVBUv2rm
 github.com/opentracing/basictracer-go v1.0.0/go.mod h1:QfBfYuafItcjQuMwinw9GhYKwFXS9KnPs5lxoYwgW74=
 github.com/opentracing/opentracing-go v1.0.2/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
 github.com/ory/dockertest/v3 v3.6.0/go.mod h1:4ZOpj8qBUmh8fcBSVzkH2bws2s91JdGvHUqan4GHEuQ=
-github.com/phoops/transitland-lib v0.8.7-pgfix.1 h1:2HaVncl1/xszJBv55LCa+gx6IAULyUqXufCawvF4Pww=
-github.com/phoops/transitland-lib v0.8.7-pgfix.1/go.mod h1:8P+TsnsNpyf0BC7G9HLfDRbUbPivEK5V6E0EA2ESoHg=
+github.com/phoops/transitland-lib v0.8.7-pgfix.2 h1:ROb8O8p+uvUeaRlz2nL3PVsMnBHIOPnurQdfrZAFtp8=
+github.com/phoops/transitland-lib v0.8.7-pgfix.2/go.mod h1:8P+TsnsNpyf0BC7G9HLfDRbUbPivEK5V6E0EA2ESoHg=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
