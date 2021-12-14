@@ -17,8 +17,10 @@ require (
 	github.com/lib/pq v1.8.0
 	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.8.0
-	github.com/twpayne/go-geom v1.3.6
+	github.com/twpayne/go-geom v1.4.1
 	github.com/vektah/gqlparser/v2 v2.1.0
 )
 
 // replace github.com/interline-io/transitland-lib => /Users/irees/src/interline-io/transitland-lib
+
+replace github.com/interline-io/transitland-lib => github.com/phoops/transitland-lib v0.8.8-pgfix.1
